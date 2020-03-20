@@ -10,6 +10,8 @@
 <body>
 
 <a href="h01/test.php">Hoofdstuk 1</a>
+<br>
+<a href="h02/variabelen.php">Hoofdstuk 2</a>
 
 </body>
 </html>
