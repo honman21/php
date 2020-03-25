@@ -5,20 +5,24 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Inhoudsopgave cursus PHP</title>
+    <title>Document</title>
 </head>
 <body>
 
-<a href="h01/test.php">Hoofdstuk 1</a>
+<?php
+    for($i = 1; $i <= 9; $i++) {
+        echo "<img src='img/aap".$i.".jpg'>";
+}
+?>
 <br>
-<a href="h02/variabelen.php">Hoofdstuk 2</a>
 <br>
-<a href="h03/arrays.php">Hoofdstuk 3</a>
-<br>
-
-
+<a href="../index.php">Terug</a>
 </body>
 </html>
+
+
+
+
 
 
 
