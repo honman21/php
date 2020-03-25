@@ -5,21 +5,21 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Inhoudsopgave cursus PHP</title>
+    <title>PHP opdracht</title>
 </head>
 <body>
 
-<a href="h01/test.php">Hoofdstuk 1</a>
-<br>
-<a href="h02/variabelen.php">Hoofdstuk 2</a>
-<br>
-<a href="h03/arrays.php">Hoofdstuk 3.1</a>
-<br>
-<a href="h03/bomen.php">Hoofdstuk 3.2</a>
+<?php
 
+$bomen = array("img_0050.jpg", "lillypilly1.jpg", "Maranchery_Biyyam_Kayal_kandal.jpg");
 
+foreach($bomen as $boom) {
+    echo "<img src='img/bomen/".$boom."'>";
+}
+
+?>
+<br>
+<br>
+<a href="../index.php">Terug</a>
 </body>
 </html>
-
-
-
