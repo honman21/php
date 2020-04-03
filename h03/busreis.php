@@ -5,21 +5,23 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>PHP opdracht</title>
+    <title>busreis</title>
 </head>
 <body>
-
 <?php
-
-$bomen = array("img_0050.jpg", "lillypilly1.jpg", "Maranchery_Biyyam_Kayal_kandal.jpg");
-
-foreach($bomen as $boom) {
-    echo "<img src='bomen/".$boom."'>";
+$leeftijd = 66;
+$bedrag = 10;
+if ($leeftijd < 65) {
+    $bedrag = $bedrag * 0.5;
+}
+if ($leeftijd < 12) {
+    $bedrag = $bedrag * 0.5;
+}
+if ($leeftijd < 3) {
+    $bedrag = 0;
 }
 
+echo $bedrag;
 ?>
-<br>
-<br>
-<a href="../index.php">Terug</a>
 </body>
 </html>
