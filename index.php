@@ -31,11 +31,3 @@
 <br>
 <a href="h03/kapperszaak.php">Hoofdstuk 3.8</a>
 <br>
-
-
-
-</body>
-</html>
-
-
-
