@@ -15,7 +15,7 @@
 //$kappersagenda[""] = 9.45 ;
 //$kappersagenda["Paul van den Broek"] = 10.00;
 //$kappersagenda["Karel de Meeuw"] = 10.15;
-//$kappersagenda[""] = 10.30;
+//$kappersagenda[" "] = 10.30;
 
 $kappersagenda = array(
     "Mevr. Pietersen" => 9.15,
