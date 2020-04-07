@@ -31,3 +31,7 @@
 <br>
 <a href="h03/kapperszaak.php">Hoofdstuk 3.8</a>
 <br>
+<br>
+<a href="h04/functies.php">Hoofdstuk 4</a>
+<br>
+<a href=""></a>
