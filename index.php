@@ -34,4 +34,9 @@
 <br>
 <a href="h04/functies.php">Hoofdstuk 4</a>
 <br>
+<br>
+<a href="h05/form.html">Hoofdstuk 5.1</a>
+<br>
+<a href="h05/form2.html">Hoofdstuk 5.2</a>
+<br>
 <a href=""></a>
