@@ -43,3 +43,10 @@
 <br>
 <a href="h05/website.html">Hoofdstuk 5.4</a>
 <br>
+<br>
+<a href="h06/mysqlLinken.php">Hoofdstuk 6.1</a>
+<br>
+<a href="h06/loginformulier.php">Hoofdstuk 6.2</a>
+<br>
+<br>
+<a href="h07/cookiesNsessies.php">Hoofdstuk 7</a>
