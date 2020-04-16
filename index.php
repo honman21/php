@@ -39,4 +39,7 @@
 <br>
 <a href="h05/form2.html">Hoofdstuk 5.2</a>
 <br>
-<a href=""></a>
+<a href="h05/beasties.html">Hoofdstuk 5.3</a>
+<br>
+<a href="h05/website.html">Hoofdstuk 5.4</a>
+<br>
