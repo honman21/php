@@ -39,9 +39,13 @@ if (isset($_POST['knop'])
 
 <h1><?php echo $message ?></h1>
 
+<p>Yarou / DIO = Administrator</p>
+<p>HOHO / Dewa juubun chikazukanai youi = Gebruiker</p>
+<p>Jotaro / kisama da = Administrator</p><br>
+
 <form action="<?php echo $_SERVER['PHP_SELF']; ?>" method="post">
     Login: <input type="text"  name="login" value=""><br>
-    Password: <input type="password"  name="pwd" value="">
+    Password: <input type="password"  name="pwd" value=""><br>
     <input type="submit" name="knop" value="Submit">
 
 </form>
